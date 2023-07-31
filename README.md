@@ -2,7 +2,7 @@
 
 ## 效果展示
 
-https://github.com/cjyiiiing/project_EntertainmentTablet/assets/55642261/a231d9e7-c062-4ef2-8a1c-e7b59469181b
+https://github.com/cjyiiiing/EntertainmentTablet/assets/55642261/0f9a9279-4a6f-40e3-abeb-a49713b16c5c
 
 
 ## 概述
